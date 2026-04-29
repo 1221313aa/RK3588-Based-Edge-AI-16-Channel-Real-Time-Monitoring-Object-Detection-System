@@ -1,0 +1,1 @@
+# RK3588-Based-Edge-AI-16-Channel-Real-Time-Monitoring-Object-Detection-System
